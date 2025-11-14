@@ -1,66 +1,73 @@
-# 👋 Hi, I'm Sameer Shamshad
+# Hi, I'm Sameer Shamshad 👋 
 
-🚀 **Full Stack MERN Developer** | Passionate about creating scalable web apps with clean UI and smart backend logic.
-
-I'm a Software Engineer with hands-on experience in **React**, **Next.js**, **Node.js**, and **MongoDB**. I focus on building responsive, optimized, and user-friendly web and mobile applications. I’ve worked on projects like AI-based learning platforms, resume builders, and real-time chat systems — each improving my skills in scalability, authentication, and UI/UX design.
-
----
-
-## 🧠 About Me
-- 🎓 **BS Software Engineering** from Gift University (2022–2025)
-- 💻 Focused on **Web Engineering** and **Machine Learning with Python**
-- 🌍 Based in **Kamoke, Pakistan**
-- 🔗 [Portfolio](https://sameer-shamshad-portfolio.vercel.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sameer-shamshad)  
-- 🧑‍💻 [GitHub](https://github.com/CodeLikeBA56)
+**Full Stack MERN Developer** focused on building clean, scalable, and reliable web & mobile applications.
+I work with technologies like **React**, **Next.js**, **React Native**, **Node.js**, **Firebase**, and **MongoDB**, and I enjoy building smooth interfaces backed by well-structured logic.
 
 ---
 
-## 🧩 Featured Projects
+## About Me
 
-### 🪶 Double Kick Your Resume
-A **Next.js Resume Builder** web app with authentication and customizable templates.  
-Responsive design, secure login, and dynamic resume sections.
-
-### 🔗 Linkr
-Enhanced an open-source project by adding a “Copy QR Code” button with click notifications and cooldown logic. Improved responsiveness and user experience.
-
-### 🤝 AI-Powered Skillswap Network
-Peer-to-peer **learning platform** using **JWT authentication**, **WebRTC live meetings**, and **K-Means-based recommendation system**.  
-Integrated chats, leaderboards, and gamification to keep users engaged.
-
-### 🧭 Optimal Path Finder
-Interactive graph visualization tool that demonstrates **BFS**, **DFS**, and **UCS** algorithms for learning pathfinding concepts visually.
-
-### 📚 Online Book Store (React Native)
-An **e-commerce app** integrated with **Firebase Realtime Database**, featuring cart, order, and wishlist management.
+* BS Software Engineering (Gift University, 2022–2025)
+* Focused on Web Engineering and Machine Learning with Python
+* Based in Kamoke, Pakistan
+* Portfolio: [https://sameer-shamshad-portfolio.vercel.app](https://sameer-shamshad-portfolio.vercel.app)
+* LinkedIn: [https://www.linkedin.com/in/sameer-shamshad](https://www.linkedin.com/in/sameer-shamshad)
+* GitHub: [https://github.com/CodeLikeBA56](https://github.com/CodeLikeBA56)
 
 ---
 
-## 🧰 Languages & Tools
+## Featured Projects
+### AI-Powered Skillswap Network (FYP)
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,ts" />
-  <br/>
-  <!-- Backend -->
+A peer-to-peer learning platform for students with JWT authentication, WebRTC video sessions, one-to-one & group chat, and a K-Mean based recommendation engine. Includes progress tracking and leaderboards.
+
+### Optimal Path Finder
+
+A visual graph demo of BFS, DFS, and UCS search algorithms with an interactive interface for learning how pathfinding works.
+
+### Online Book Store (React Native)
+
+A mobile e-commerce app powered by Firebase Realtime Database. Includes product listings, authentication, cart, wishlist, and order management.
+
+---
+
+## Languages & Tools
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+</p>
+
+### Backend
+
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,kafka" />
-  <br/>
-  <!-- Mobile & APIs -->
+</p>
+
+### Mobile & APIs
+
+<p>
   <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,postman" />
-  <br/>
-  <!-- Tools -->
+</p>
+
+### Development Tools
+
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+  <img src="https://www.cursor.com/favicon.ico" width="40" height="40" />
 </p>
 
 ---
 
-## 🧾 Certificates
-🏅 **InnovateX 1.0 Hackathon (Aug 2024)** — Organized by Brackets Pvt. Ltd. at Gift University
+## Certificates
+
+InnovateX 1.0 Hackathon
+Organized by Brackets Pvt. Ltd. at Gift University (Aug 2024)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeLikeBA56&show_icons=true&theme=tokyonight" />
@@ -69,17 +76,17 @@ An **e-commerce app** integrated with **Firebase Realtime Database**, featuring 
 
 ---
 
-## ✨ Fun Facts
-- 🎮 Gamer at heart  
-- 📖 Love reading history and exploring new technologies  
-- 🧩 Enjoy solving problems and building efficient solutions  
+## Fun Facts
+
+* I enjoy learning new technologies
+* I read history in my free time
+* I like solving problems and building practical tools
 
 ---
 
-### 📫 Contact
-📧 **sameershamshad.42@gmail.com**  
-🌐 [Portfolio](https://sameer-shamshad-portfolio.vercel.app)
+## Contact
+
+Email: **[sameershamshad.42@gmail.com](mailto:sameershamshad.42@gmail.com)**
+Portfolio: [https://sameer-shamshad-portfolio.vercel.app](https://sameer-shamshad-portfolio.vercel.app)
 
 ---
-
-⭐ **Thanks for visiting!** Let’s connect and build something amazing together.
